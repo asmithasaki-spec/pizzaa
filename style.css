@@ -1,0 +1,21 @@
+body{
+    background-image: url(photo3.1.avif);
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+}
+h1,h2{
+    color: orangered;
+    font-size: 45px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: skyblue;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+h1,h2,#text1{
+    margin-left: 400px;
+}
